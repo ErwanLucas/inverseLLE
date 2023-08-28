@@ -1,5 +1,5 @@
 # inverseLLE
-Genetic-algorithm (GA)-based optimisation of resonator dispersion for Kerr comb state tailoring via the Lugiato-Lefever Equation (LLE). Check <https://arxiv.org/abs/2209.10294> for more information.
+Genetic-algorithm (GA)-based optimisation of resonator dispersion for Kerr comb state tailoring via the Lugiato-Lefever Equation (LLE). Check the Nature Photonics paper (DOI [10.1038/s41566-023-01252-7](https://doi.org/10.1038/s41566-023-01252-7) or the [arxiv version](https://arxiv.org/abs/2209.10294) for more information.
 
 ## Running the optimization
 This is done by launching the script `lle_dispersion_genetic_optimize.m`.
